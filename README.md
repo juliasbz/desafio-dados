@@ -12,9 +12,9 @@ Temos dois conjuntos de dados disponiveis, o dataset rouanet.csv e o dataset cen
 
 [x] remover linhas com valor_em_reais = 0 ou quantidade = 0
 
-[] trocar os dados da coluna estado para a sigla da UF correspondente, ex.: Rio de Janeiro vira RJ
+[x] trocar os dados da coluna estado para a sigla da UF correspondente, ex.: Rio de Janeiro vira RJ
 
-[] Depois desse pipeline você deve gerar um csv com nome dados_tratados.csv
+[x] Depois desse pipeline você deve gerar um csv com nome dados_tratados.csv
 
 ---
 
