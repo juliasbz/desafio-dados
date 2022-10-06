@@ -6,9 +6,9 @@ Temos dois conjuntos de dados disponiveis, o dataset rouanet.csv e o dataset cen
 
 [x] unificar os datasets rouanet.csv e censo_estado.csv atraves das colunas estado_ibge e codigo, respectivamente
 
-[] criar uma Natural Key para esse dado, usando as colunas estado_ibge e valor_em_reais
+[x] criar uma Natural Key para esse dado, usando as colunas estado_ibge e valor_em_reais
 
-[] remover as linhas duplicadas de acordo com a natural key
+[x] remover as linhas duplicadas de acordo com a natural key
 
 [x] remover linhas com valor_em_reais = 0 ou quantidade = 0
 
