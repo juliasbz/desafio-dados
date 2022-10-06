@@ -22,7 +22,14 @@ Temos dois conjuntos de dados disponiveis, o dataset rouanet.csv e o dataset cen
 
 ```bash
 
+# Clonar repositório
+$ git clone 
 
+# Instalar o software Anaconda
+$ https://www.anaconda.com
+
+# Abrir o Jupyter Notebook
+$ Selecionar pasta desafio-dados e abrir o arquivo desafio.ipynb
 
 ```
 ---
