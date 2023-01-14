@@ -18,19 +18,11 @@ Temos dois conjuntos de dados disponiveis, o dataset rouanet.csv e o dataset cen
 
 ---
 
-## Como executar o projeto
+## Como visualizar o projeto
 
 ```bash
 
-# Clonar repositório
-$ git clone 
-
-# Instalar o software Anaconda
-https://www.anaconda.com
-
-# Abrir o Jupyter Notebook
-
-# Selecionar pasta desafio-dados e abrir o arquivo desafio.ipynb
+https://nbviewer.org/github/juliasbz/desafio-dados/blob/main/desafio.ipynb
 
 ```
 ---
